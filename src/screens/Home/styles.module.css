@@ -1,13 +1,3 @@
 .main {
   background-color: #f3f3f3;
 }
-
-.title {
-  color: var(--primary);
-  font-size: 3rem;
-}
-
-.subtitle {
-  color: var(--secondary);
-  font-size: 1.5rem;
-}
