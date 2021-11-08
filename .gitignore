@@ -4,10 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-
-# for update packages in run project
-yarn.lock
-
 # testing
 /coverage
 
